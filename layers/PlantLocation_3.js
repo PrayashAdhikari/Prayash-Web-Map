@@ -1,0 +1,1 @@
+var json_PlantLocation_3 = {"type":"FeatureCollection","name":"PlantLocation_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Plant Name":"Nerium oleander","Longitude":80.50761,"Latitude":16.4635},"geometry":{"type":"Point","coordinates":[80.507607,16.463504]}}]}
